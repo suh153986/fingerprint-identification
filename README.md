@@ -1,0 +1,1 @@
+This a simple C code for fingerprint identification 
